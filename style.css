@@ -1,0 +1,42 @@
+.caja {
+    width: 965px;
+    height: 282px;
+    display: flex;
+    font-family: Noto sans;
+    color: #fff;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.caja img {
+    width: 500px;
+    height: 281px;
+    
+}
+.caja div {
+    padding: 5px;
+    margin: 10px auto;
+}
+
+.caja p {
+    font-size: 15px;
+    padding: 10px 70px;
+}
+
+#caja-1{
+    
+    background-color: #1e3932;
+
+}
+
+#caja-2{
+    background-color: #0044b4;
+}
+
+#caja-3{
+    background-color: #d50032;
+}
+
+#caja-4{
+    
+    background-color: #1e3932;
